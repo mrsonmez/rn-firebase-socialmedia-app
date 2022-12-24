@@ -29,6 +29,7 @@ create a firebase app from firebase.google.com/
 select the android app give the same name from android/app/src/main/AndroidManifest.xml > package name
 in this app it should be com.socialmediaapp and download google-services.json
 then copy the file to android/app/
+
 npm install
 npm run android
 ```
