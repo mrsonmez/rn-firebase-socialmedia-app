@@ -86,7 +86,7 @@ const SignUp = ({ navigation }) => {
           />
           <View style={styles.buttonContainer}>
             <Button
-              title={"Kayıt Ol"}
+              title={"Sign up"}
               color={"#38c5f2"}
               onPress={handleSubmit}
             />
