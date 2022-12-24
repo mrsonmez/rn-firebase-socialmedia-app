@@ -24,7 +24,9 @@ ios/.xcode.env.local
 my-upload-key.keystore
 .env
 /android/app/google-services.json
+.keystore
 
+/android/app/debug.keystore
 # Android/IntelliJ
 #
 build/
@@ -45,7 +47,8 @@ yarn-error.log
 buck-out/
 \.buckd/
 *.keystore
-!debug.keystore
+debug.keystore
+
 
 # fastlane
 #
