@@ -11,7 +11,7 @@ This project is Simple Social Media app in react-native with firebase
 | Home Screen                                     | Settings Screen                               |
 | ----------------------------------------------- | --------------------------------------------- |
 | ![home](./photoofapp/homescreen.png)            | ![settings](./photoofapp/settings.png)        |
-| İmage Picker                                    | Updated Settings screen                       |
+| Image Picker                                    | Updated Settings screen                       |
 | ![signin](./photoofapp/imagepicker.png)         | ![signup](./photoofapp/updatedsettings.png)   |
 | Message Modal                                   | Updated Home screen                           |
 | ![message modal](./photoofapp/messagemodal.png) | ![updated home](./photoofapp/updatedhome.png) |
